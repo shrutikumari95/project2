@@ -1,3 +1,5 @@
 # New Project
 
-This project was createdfrom local system.
+This project was created from local system.
+
+Created by Shruti Kumari
